@@ -1,0 +1,12 @@
+.operator{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    font-size: 20px;
+    border: none;
+    background-color: silver;
+}
+
+.operator:hover{
+    cursor: pointer;
+}

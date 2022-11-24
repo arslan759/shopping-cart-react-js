@@ -1,0 +1,12 @@
+.checkout{
+    border: none;
+    background-color: skyblue;
+    padding: 0.75rem;
+    border-radius: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.checkout:hover{
+    cursor: pointer;
+}
